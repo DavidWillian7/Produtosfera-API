@@ -51,10 +51,8 @@
 <h2>Utilização</h2>
     <p>Após iniciar a aplicação, você pode acessar a documentação da API em <a href="http://localhost:8080/swagger-ui.html">http://localhost:8080/swagger-ui.html</a> para explorar e utilizar os endpoints disponíveis.</p>
 
-<h2>Autores</h2>
-    <ul>
-        <li>David Willian</li>
-    </ul>
+<h2>Autor</h2>
+    <p>David Willian</p>
 
 <h2>Licença</h2>
     <p>Este projeto está licenciado sob a Licença MIT - veja o arquivo <a href="LICENSE">LICENSE.md</a> para mais detalhes.</p>

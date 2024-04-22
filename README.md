@@ -57,4 +57,4 @@
     </ul>
 
 <h2>Licença</h2>
-    <p>Este projeto está licenciado sob a Licença MIT - veja o arquivo <a href="LICENSE.md">LICENSE.md</a> para mais detalhes.</p>
+    <p>Este projeto está licenciado sob a Licença MIT - veja o arquivo <a href="LICENSE">LICENSE.md</a> para mais detalhes.</p>

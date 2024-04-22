@@ -1,7 +1,8 @@
 <h1>produtosferaAPI</h1>
 
 <h2>Descrição</h2>
-<p>A <strong>produtosferaAPI</strong> é uma API em Java com Spring Boot desenvolvida para gerenciar produtos e categorias. A aplicação permite criar, visualizar, atualizar e excluir produtos e categorias, bem como associar categorias a produtos.</p>
+<p>A <strong>produtosferaAPI</strong> é uma API desenvolvida para gerenciar produtos e categorias. A aplicação permite criar, visualizar, atualizar e excluir produtos e categorias, bem como associar categorias a produtos. Este projeto é uma oportunidade para praticar e aprimorar conhecimentos em diversas tecnologias amplamente utilizadas no desenvolvimento de REST API.</p>
+<p>Além disso, utiliza o conceito de Data Transfer Object (DTO) para transferir dados entre os serviços e a camada de apresentação de forma eficiente, contribuindo para uma arquitetura mais limpa e modular.</p>
 
 <h2>Funcionalidades Principais</h2>
     <ul>
